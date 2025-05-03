@@ -4,6 +4,6 @@
   <img src="img/js.jpg" alt="Imagem 3" width="300" height= "150"/>
 </p>
 
-# ⏰ horaDoDia
+# ⏰ DiaeNoite
 
 Uma função JavaScript simples que retorna mensagens personalizadas de acordo com o horário fornecido.
