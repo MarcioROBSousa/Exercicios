@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="img/javascript.png" alt="Imagem 1" width="200" height= "150"/>
-  <img src="img/banner.jpg" alt="Imagem 2" width="200" height= "150"/>
-  <img src="img/js.jpg" alt="Imagem 3" width="200" height= "150"/>
+  <img src="img/javascript.png" alt="Imagem 1" width="250" height= "150"/>
+  <img src="img/banner.jpg" alt="Imagem 2" width="250" height= "150"/>
+  <img src="img/js.jpg" alt="Imagem 3" width="250" height= "150"/>
 </p>
 
 # ⏰ DiaeNoite
