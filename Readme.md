@@ -6,4 +6,4 @@
 
 # ⏰ DiaeNoite
 
-Uma função JavaScript simples que retorna mensagens personalizadas de acordo com o horário fornecido.
+Uma função JavaScript simples que retorna mensagens personalizadas de acordo com o horário fornecido pelo usuário.
