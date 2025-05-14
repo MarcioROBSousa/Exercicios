@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+
+        function numerosDivisiveisPor3() {
+
+            let numero = prompt ("Digite qualquer número para saber se é divisível por 3:");
+
+            if (numero === null || numero.trim() === '') {
+                alert('Você não digitou um numero válido')
+            } else {
+            }    if(numero % 3 == 0) {
+                    alert ("Número divisível por 3")
+                } else {
+                    alert("Este número não é divisível por 3")
+                }
+            }
+
+    </script>
+    
+</body>
+<h1>Digite um número</h1>
+<button onclick="numerosDivisiveisPor3()">clique aqui para digitar seu numero</button>
+</html>
